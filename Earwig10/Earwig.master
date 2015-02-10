@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Chapter 9: Happy Earwig</title>
+    <title>Browning HW10-Earwig</title>
     <link href="Styles/Main.css" rel="stylesheet"/>
     <asp:ContentPlaceHolder id="headPlaceHolder" runat="server">
     </asp:ContentPlaceHolder>
