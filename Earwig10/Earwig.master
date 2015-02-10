@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Earwig.master.cs" Inherits="Site" ClientIDMode="Static" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Chapter 9: Happy Earwig</title>
+    <link href="Styles/Main.css" rel="stylesheet"/>
+    <asp:ContentPlaceHolder id="headPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <asp:Image ID="imgMotel" runat="server" ImageUrl="~/Images/The_Happy_Earwig_Motel.png" BorderColor="White" BorderWidth="10px" ImageAlign="Left" />
+        <h1>The Happy Earwig Motel</h1>
+        <h2>Our crawl-space now body-free!</h2>
+        <p>
+            <br />
+            <br />
+        </p>
+    </header>
+    <section>
+        <asp:ContentPlaceHolder ID="formPlaceholder" runat="server">
+        </asp:ContentPlaceHolder>
+    </section>
+    <footer>
+        <p>&copy; 2015, Happy Earwig Motel</p>
+    </footer>
+</body>
+</html>
