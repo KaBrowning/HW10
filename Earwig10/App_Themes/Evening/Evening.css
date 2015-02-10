@@ -18,3 +18,17 @@ h2
 footer {
     border-top: 5px dotted purple;
 }
+.box {
+    border: 2px dotted cadetblue;
+    width: 11em;
+}
+.input {
+    border: 1px dashed cadetblue;
+    width: 10em;
+}
+.drop {
+    border: 2px dotted cadetblue;
+}
+.errorMessage {
+    color: orange;
+}
