@@ -4,10 +4,10 @@
 /// Master page file for the Earwig application
 /// </summary>
 /// <author>
-/// CS4985
+/// Kathryn Browning
 /// </author>
 /// <version>
-/// Spring 2015
+/// February 10, 2015
 /// </version>
 public partial class Site : System.Web.UI.MasterPage
 {

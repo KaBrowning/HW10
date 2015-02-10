@@ -4,10 +4,10 @@
 /// Page that allows the user to enter their contact details
 /// </summary>
 /// <author>
-/// CS4985
+/// Kathryn Browning
 /// </author>
 /// <version>
-/// Spring 2015
+/// February 10, 2015
 /// </version>
 public partial class Request : System.Web.UI.Page
 {

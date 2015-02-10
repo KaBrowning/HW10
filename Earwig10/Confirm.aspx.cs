@@ -6,10 +6,10 @@
 ///     Go back to the previous page and modify the details
 /// </summary>
 /// <author>
-/// CS4985
+/// Kathryn Browning
 /// </author>
 /// <version>
-/// Spring 2015
+/// February 10, 2015
 /// </version>
 public partial class Confirm : System.Web.UI.Page
 {

@@ -4,10 +4,10 @@
 /// Class to keep track of a person's contact details
 /// </summary>
 /// <author>
-/// CS4985
+/// Kathryn Browning
 /// </author>
 /// <version>
-/// Spring 2015
+/// February 10, 2015
 /// </version>
 public class ContactDetails
 {
